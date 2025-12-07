@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "BORN TO BE (Final Ver.)",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-07T09:13:44.223922Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BORN TO BE (Final Ver.)",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/01_BORN_TO_BE_(Final_Ver.)_ITZY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BORN TO BE (Final Ver.)",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/02_BORN_TO_BE_(Final_Ver.)_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "born�to�be (final�ver.)",
+      "artist": "itzy",
+      "has_synced": true,
+      "path": "select/03_born�to�be_(final�ver.)_itzy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "born to be (final�ver.)",
+      "artist": "itzy",
+      "has_synced": true,
+      "path": "select/04_born_to_be_(final�ver.)_itzy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BORN TO BE (Final Ver.)",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/05_BORN_TO_BE_(Final_Ver.)_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BORN TO BE (Final Ver.)",
+      "artist": "ITZY (있지)",
+      "has_synced": true,
+      "path": "select/06_BORN_TO_BE_(Final_Ver.)_ITZY_(있지).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BORN TO BE  (Final Ver.)",
+      "artist": "ITZY (있지)",
+      "has_synced": true,
+      "path": "select/07_BORN_TO_BE_(Final_Ver.)_ITZY_(있지).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BORN TO BE (Final Ver.)",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/08_BORN_TO_BE_(Final_Ver.)_ITZY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BORN TO BE - Final Ver.",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_BORN_TO_BE_-_Final_Ver._ITZY.txt"
+    }
+  ]
+}
